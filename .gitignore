@@ -105,3 +105,5 @@ venv.bak/
 
 # my venv
 local_settings.py
+
+node_modules/
